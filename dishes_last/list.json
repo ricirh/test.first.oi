@@ -1,28 +1,28 @@
 [
   {
-    name:"土豆丝",
-    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/0.jpg",
-    price:8
+    "name":"土豆丝",
+    "addr":"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/0.jpg",
+    "price":8
   },
   {
-    name:"麻婆豆腐",
-    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/1.jpg",
+    "name":"麻婆豆腐",
+    "addr":"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/1.jpg",
     price:9
   },
   {
-    name:"炝炒白菜",
-    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/2.jpg",
-    price:8
+    "name":"炝炒白菜",
+    "addr":"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/2.jpg",
+    "price":8
   },
   {
-    name:"鱼香肉丝",
-    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/3.png",
-    price:10
+    "name":"鱼香肉丝",
+    "addr":"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/3.png",
+    "price":10
   },
   {
-    name:"青椒回锅肉",
-    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/4.png",
-    price:13
+    "name":"青椒回锅肉",
+    "addr":"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/4.png",
+    "price":13
   }
 ]
 
