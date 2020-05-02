@@ -16,12 +16,12 @@
   },
   {
     name:"鱼香肉丝",
-    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/3.jpg",
+    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/3.png",
     price:10
   },
   {
     name:"青椒回锅肉",
-    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/4.jpg",
+    addr:"https://github.com/ricirh/test.first.oi/edit/master/dishes_last/4.png",
     price:13
   }
 ]
