@@ -1,20 +1,24 @@
 [
   {
+    "id":0001,
     "name":"土豆丝",
     "addr":"https://ricirh.github.io/test.first.oi/dishes_last/0.jpg",
     "price":8
   },
   {
+    "id":0002,
     "name":"麻婆豆腐",
     "addr":"https://ricirh.github.io/test.first.oi/dishes_last/1.jpg",
     "price":9
   },
   {
+    "id":0003,
     "name":"鱼香肉丝",
     "addr":"https://ricirh.github.io/test.first.oi/dishes_last/3.png",
     "price":10
   },
   {
+    "id":0004,
     "name":"青椒回锅肉",
     "addr":"https://ricirh.github.io/test.first.oi/dishes_last/4.png",
     "price":13
